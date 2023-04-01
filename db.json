@@ -226,7 +226,7 @@
           "discountPricePound": 4,
           "description": "[`Regular fit - Fitted at Chest and Straight on Waist Down,`Interlock,160 Gsm, 100%Polyester soft and breathable for maximum comfort.`]",
           "sex": "F",
-          "category": "Women's Activewear",
+          "category": "Sportwear",
           "stock": 25,
           "size": "[S,M,L,XL,XXL]",
           "rating": 3.9
@@ -247,7 +247,7 @@
           "discountPricePound": 5,
           "description": "[`Relaxed fit - Relaxed at Chest and Straight on Waist Down`,`Single Jersey, 100% Cotton Classic, lightweight jersey fabric comprising 100% cotton.`]",
           "sex": "F",
-          "category": "Women's Activewear",
+          "category": "Sportwear",
           "stock": 20,
           "size": "[S,M,L,XL,XXL]",
           "rating": 4
@@ -268,7 +268,7 @@
           "discountPricePound": 4,
           "description": "[`Regular fit - Fitted at Chest and Straight on Waist Down`,`Interlock,160 Gsm, 100%Polyester soft and breathable for maximum comfort.`]",
           "sex": "F",
-          "category": "Women's Activewear",
+          "category": "Sportwear",
           "stock": 40,
           "size": "[S,M,L,XL,XXL]",
           "rating": 3.5
@@ -289,7 +289,7 @@
           "discountPricePound": 13,
           "description": "[`Regular fit - Fits just right - not too tight`,`Poly Spandex New Light Weight, Soft & Durable`]",
           "sex": "F",
-          "category": "Women's Activewear",
+          "category": "Sportwear",
           "stock": 23,
           "size": "[S,M,L,XL,XXL]",
           "rating": 4.7
@@ -310,7 +310,7 @@
           "discountPricePound": 7,
           "description": "[`Regular fit - Fits just right - not too tight`,`Poly Spandex New Light Weight, Soft & Durable`]",
           "sex": "F",
-          "category": "Women's Activewear",
+          "category": "Sportwear",
           "stock": 31,
           "size": "[S,M,L,XL,XXL]",
           "rating": 4.9
@@ -331,7 +331,7 @@
           "discountPricePound": 6,
           "description": "[`Regular fit - Fits just right - not too tight`,`Polyester Blend Polyester Blend, Wrinkle resistant & Durable`]",
           "sex": "F",
-          "category": "Women's Activewear",
+          "category": "Sportwear",
           "stock": 23,
           "size": "[S,M,L,XL,XXL]",
           "rating": 4.1
@@ -352,7 +352,7 @@
           "discountPricePound": 7,
           "description": "[`Regular fit - Fits just right - not too tight`,`Polyester Light Weight, Soft & Durable`]",
           "sex": "F",
-          "category": "Women's Activewear",
+          "category": "Sportwear",
           "stock": 22,
           "size": "[S,M,L,XL,XXL]",
           "rating": 4.3
@@ -373,7 +373,7 @@
           "discountPricePound": 6,
           "description": "[`Slim fit - Fits close to the body.`,`Polyester Light Weight, Soft & Durable`]",
           "sex": "F",
-          "category": "Women's Activewear",
+          "category": "Sportwear",
           "stock": 20,
           "size": "[S,M,L,XL,XXL]",
           "rating": 4.8
@@ -394,7 +394,7 @@
           "discountPricePound": 6,
           "description": "[`Slim fit - Fits close to the body.`,`Polyester Light Weight, Soft & Durable`]",
           "sex": "F",
-          "category": "Women's Activewear",
+          "category": "Sportwear",
           "stock": 12,
           "size": "[S,M,L,XL,XXL]",
           "rating": 3.5
@@ -415,7 +415,7 @@
           "discountPricePound": 5,
           "description": "[`Regular fit - Fits just right - not too tight`,`100% Polyester Soft & light weight fabric`]",
           "sex": "F",
-          "category": "Women's Activewear",
+          "category": "Sportwear",
           "stock": 31,
           "size": "[S,M,L,XL,XXL]",
           "rating": 3.8
